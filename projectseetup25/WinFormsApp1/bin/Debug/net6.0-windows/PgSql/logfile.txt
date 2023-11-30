@@ -1,0 +1,578 @@
+Database client_data Time 11/16/2023 2:43:01 PM finished 0  tables
+Database client_data Time 11/16/2023 2:43:02 PM finished 0  Views
+Database client_data Time 11/16/2023 2:43:04 PM finished 0  procedures
+Database client_data Time 11/16/2023 2:43:04 PM finished 0  functions
+Database client_data Time 11/16/2023 2:43:05 PM finished 0  triggers
+Database client_data Time 11/16/2023 2:43:53 PM finished 0  tables
+Database client_data Time 11/16/2023 2:44:01 PM finished 0  Views
+Database client_data Time 11/16/2023 2:44:05 PM finished 0  procedures
+Database client_data Time 11/16/2023 2:44:07 PM finished 0  functions
+Database client_data Time 11/16/2023 2:44:07 PM finished 0  triggers
+Database client_data Time 11/16/2023 2:46:39 PM finished 0  tables
+Database client_data Time 11/16/2023 2:46:41 PM finished 0  Views
+Database client_data Time 11/16/2023 2:52:46 PM finished 0  tables
+Database client_data Time 11/16/2023 2:52:51 PM finished 0  Views
+Database client_data Time 11/16/2023 2:52:52 PM finished 0  procedures
+Database client_data Time 11/16/2023 2:52:52 PM finished 0  functions
+Database client_data Time 11/16/2023 2:52:53 PM finished 0  triggers
+Database client_data Time 11/16/2023 2:55:46 PM finished 0  tables
+Database client_data Time 11/16/2023 2:55:56 PM finished 0  Views
+Database client_data Time 11/16/2023 2:55:58 PM finished 0  procedures
+Database client_data Time 11/16/2023 2:55:59 PM finished 0  functions
+Database client_data Time 11/16/2023 2:56:00 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:04:23 PM finished 0  tables
+Database client_data Time 11/16/2023 3:04:24 PM finished 0  Views
+Database client_data Time 11/16/2023 3:04:25 PM finished 4  procedures
+Database client_data Time 11/16/2023 3:04:27 PM finished 4  functions
+Database client_data Time 11/16/2023 3:04:28 PM finished 4  triggers
+Database client_data Time 11/16/2023 3:13:16 PM finished 0  tables
+Database client_data Time 11/16/2023 3:13:17 PM finished 0  Views
+Database client_data Time 11/16/2023 3:13:18 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:13:18 PM finished 0  functions
+Database client_data Time 11/16/2023 3:13:19 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:15:19 PM finished 0  tables
+Database client_data Time 11/16/2023 3:15:21 PM finished 0  Views
+Database client_data Time 11/16/2023 3:15:22 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:15:22 PM finished 0  functions
+Database client_data Time 11/16/2023 3:15:23 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:19:50 PM finished 0  tables
+Database client_data Time 11/16/2023 3:19:52 PM finished 0  Views
+Database client_data Time 11/16/2023 3:19:53 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:19:53 PM finished 0  functions
+Database client_data Time 11/16/2023 3:19:54 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:24:34 PM finished 0  tables
+Database client_data Time 11/16/2023 3:24:35 PM finished 0  Views
+Database client_data Time 11/16/2023 3:24:36 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:24:36 PM finished 0  functions
+Database client_data Time 11/16/2023 3:24:37 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:25:35 PM finished 0  tables
+Database client_data Time 11/16/2023 3:25:36 PM finished 0  Views
+Database client_data Time 11/16/2023 3:25:36 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:25:37 PM finished 0  functions
+Database client_data Time 11/16/2023 3:25:37 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:26:48 PM finished 0  tables
+Database client_data Time 11/16/2023 3:26:50 PM finished 0  Views
+Database client_data Time 11/16/2023 3:26:51 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:26:51 PM finished 0  functions
+Database client_data Time 11/16/2023 3:26:55 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:40:02 PM finished 0  tables
+Database client_data Time 11/16/2023 3:40:06 PM finished 0  Views
+Database client_data Time 11/16/2023 3:40:07 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:40:08 PM finished 0  functions
+Database client_data Time 11/16/2023 3:40:09 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:40:26 PM finished 0  tables
+Database client_data Time 11/16/2023 3:40:27 PM finished 0  Views
+Database client_data Time 11/16/2023 3:40:28 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:40:29 PM finished 0  functions
+Database client_data Time 11/16/2023 3:40:29 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:42:14 PM finished 0  tables
+Database client_data Time 11/16/2023 3:42:17 PM finished 0  Views
+Database client_data Time 11/16/2023 3:42:18 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:42:18 PM finished 0  functions
+Database client_data Time 11/16/2023 3:42:19 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:52:32 PM finished 0  tables
+Database client_data Time 11/16/2023 3:53:05 PM finished 0  Views
+Database client_data Time 11/16/2023 3:53:06 PM finished 0  procedures
+Database client_data Time 11/16/2023 3:53:07 PM finished 0  functions
+Database client_data Time 11/16/2023 3:53:09 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:53:27 PM finished 0  tables
+Database client_data Time 11/16/2023 3:53:28 PM finished 0  Views
+Database client_data Time 11/16/2023 3:53:29 PM finished 2  procedures
+Database client_data Time 11/16/2023 3:53:37 PM finished 0  functions
+Database client_data Time 11/16/2023 3:53:40 PM finished 0  triggers
+Database client_data Time 11/16/2023 3:54:14 PM finished 0  tables
+Database client_data Time 11/16/2023 3:54:15 PM finished 0  Views
+Database client_data Time 11/16/2023 3:54:16 PM finished 2  procedures
+Database client_data Time 11/16/2023 3:54:17 PM finished 0  functions
+Database client_data Time 11/16/2023 3:54:19 PM finished 2  triggers
+Database client_data Time 11/16/2023 3:55:00 PM finished 0  tables
+Database client_data Time 11/16/2023 3:55:01 PM finished 0  Views
+Database client_data Time 11/16/2023 3:55:02 PM finished 2  procedures
+Database client_data Time 11/16/2023 3:55:04 PM finished 2  functions
+Database client_data Time 11/16/2023 3:55:05 PM finished 2  triggers
+Database client_data Time 11/16/2023 4:07:03 PM finished 8  tables
+Database client_data Time 11/16/2023 4:07:08 PM finished 2  procedures
+Database client_data Time 11/16/2023 4:07:09 PM finished 2  functions
+Database client_data Time 11/16/2023 4:07:10 PM finished 2  triggers
+Database client_data Time 11/16/2023 4:10:24 PM finished 8  tables
+Database client_data Time 11/16/2023 4:10:33 PM finished 2  procedures
+Database client_data Time 11/16/2023 4:10:34 PM finished 2  functions
+Database client_data Time 11/16/2023 4:10:35 PM finished 2  triggers
+Database client_data Time 11/16/2023 4:11:36 PM finished 8  tables
+Database client_data Time 11/16/2023 4:11:40 PM finished 2  procedures
+Database client_data Time 11/16/2023 4:11:41 PM finished 2  functions
+Database client_data Time 11/16/2023 4:11:41 PM finished 2  triggers
+Database client_data Time 11/16/2023 4:40:23 PM finished 2  tables
+Database client_data Time 11/16/2023 4:40:25 PM finished 0  Views
+Database client_data Time 11/16/2023 4:40:26 PM finished 0  procedures
+Database client_data Time 11/16/2023 4:40:26 PM finished 0  functions
+Database client_data Time 11/16/2023 4:40:27 PM finished 0  triggers
+Database client_data Time 11/16/2023 4:50:01 PM finished 2  tables
+Database client_data Time 11/16/2023 4:50:03 PM finished 0  Views
+Database client_data Time 11/16/2023 4:50:04 PM finished 0  procedures
+Database client_data Time 11/16/2023 4:50:04 PM finished 0  functions
+Database client_data Time 11/16/2023 4:50:05 PM finished 0  triggers
+Database client_data Time 11/16/2023 4:50:38 PM finished 4  tables
+Database client_data Time 11/16/2023 4:50:39 PM finished 0  Views
+Database client_data Time 11/16/2023 4:50:39 PM finished 0  procedures
+Database client_data Time 11/16/2023 4:50:40 PM finished 0  functions
+Database client_data Time 11/16/2023 4:50:40 PM finished 0  triggers
+Database client_data Time 11/16/2023 5:17:54 PM finished 4  tables
+Database client_data Time 11/16/2023 5:17:56 PM finished 0  Views
+Database client_data Time 11/16/2023 5:17:56 PM finished 0  procedures
+Database client_data Time 11/16/2023 5:17:57 PM finished 0  functions
+Database client_data Time 11/16/2023 5:17:57 PM finished 0  triggers
+Database client_data Time 11/17/2023 2:01:32 PM finished 127  tables
+Database client_data Time 11/17/2023 2:01:33 PM finished 6  Views
+Database client_data Time 11/17/2023 2:01:34 PM finished 4  procedures
+Database client_data Time 11/17/2023 2:01:35 PM finished 4  functions
+Database client_data Time 11/17/2023 2:01:36 PM finished 4  triggers
+Database client_data Time 11/17/2023 3:33:02 PM finished 127  tables
+Database client_data Time 11/17/2023 3:33:03 PM finished 6  Views
+Database client_data Time 11/17/2023 3:33:04 PM finished 4  procedures
+Database client_data Time 11/17/2023 3:33:05 PM finished 4  functions
+Database client_data Time 11/17/2023 3:33:06 PM finished 4  triggers
+Database client_data Time 11/17/2023 3:34:22 PM finished 8  tables
+Database client_data Time 11/17/2023 3:34:23 PM finished 0  Views
+Database client_data Time 11/17/2023 3:34:24 PM finished 0  procedures
+Database client_data Time 11/17/2023 3:34:25 PM finished 0  functions
+Database client_data Time 11/17/2023 3:34:25 PM finished 0  triggers
+Database client_data Time 11/17/2023 3:50:16 PM finished 127  tables
+Database client_data Time 11/17/2023 3:50:18 PM finished 6  Views
+Database client_data Time 11/17/2023 3:50:19 PM finished 4  procedures
+Database client_data Time 11/17/2023 3:50:20 PM finished 4  functions
+Database client_data Time 11/17/2023 3:50:21 PM finished 4  triggers
+Database client_data Time 11/18/2023 6:34:42 PM finished 127  tables
+Database client_data Time 11/18/2023 6:34:43 PM finished 6  Views
+Database client_data Time 11/18/2023 6:34:45 PM finished 4  procedures
+Database client_data Time 11/18/2023 6:34:46 PM finished 4  functions
+Database client_data Time 11/18/2023 6:34:47 PM finished 4  triggers
+Database client_data Time 11/18/2023 6:37:31 PM finished 5  tables
+Database client_data Time 11/18/2023 6:37:33 PM finished 0  Views
+Database client_data Time 11/18/2023 6:37:34 PM finished 0  procedures
+Database client_data Time 11/18/2023 6:37:34 PM finished 0  functions
+Database client_data Time 11/18/2023 6:37:35 PM finished 0  triggers
+Database client_data Time 11/18/2023 10:12:16 PM finished 3  tables
+Database client_data Time 11/18/2023 10:12:17 PM finished 0  Views
+Database client_data Time 11/18/2023 10:12:17 PM finished 0  procedures
+Database client_data Time 11/18/2023 10:12:18 PM finished 0  functions
+Database client_data Time 11/18/2023 10:12:19 PM finished 0  triggers
+Database client_data Time 11/18/2023 10:12:59 PM finished 3  tables
+Database client_data Time 11/18/2023 10:13:00 PM finished 0  Views
+Database client_data Time 11/18/2023 10:13:01 PM finished 0  procedures
+Database client_data Time 11/18/2023 10:13:01 PM finished 0  functions
+Database client_data Time 11/18/2023 10:13:03 PM finished 0  triggers
+Database client_data Time 11/18/2023 10:19:56 PM finished 127  tables
+Database client_data Time 11/18/2023 10:19:57 PM finished 6  Views
+Database client_data Time 11/18/2023 10:19:58 PM finished 4  procedures
+Database client_data Time 11/18/2023 10:19:58 PM finished 4  functions
+Database client_data Time 11/18/2023 10:19:58 PM finished 4  triggers
+Database client_data Time 11/18/2023 10:35:21 PM finished 127  tables
+Database client_data Time 11/18/2023 10:35:22 PM finished 6  Views
+Database client_data Time 11/18/2023 10:35:23 PM finished 4  procedures
+Database client_data Time 11/18/2023 10:35:23 PM finished 4  functions
+Database client_data Time 11/18/2023 10:35:24 PM finished 4  triggers
+Error 11/19/2023 8:55:21 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:03:08 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:06:26 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:12:17 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:21:39 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:22:19 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:27:38 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:30:56 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:38:46 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:39:47 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Database client_data Time 11/19/2023 9:43:29 AM finished 3  tables
+Database client_data Time 11/19/2023 9:43:31 AM finished 0  Views
+Database client_data Time 11/19/2023 9:43:32 AM finished 0  procedures
+Database client_data Time 11/19/2023 9:43:33 AM finished 0  functions
+Database client_data Time 11/19/2023 9:43:34 AM finished 0  triggers
+Error 11/19/2023 9:48:33 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:50:02 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:51:29 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:53:09 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 9:55:00 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Database client_data Time 11/19/2023 9:55:08 AM finished 0  Views
+Error 11/19/2023 10:00:17 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 10:04:51 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 10:14:53 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Error 11/19/2023 10:17:18 AM : Npgsql.PostgresException (0x80004005): 3D000: database "client_data" does not exist
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 32
+   at WinFormsApp1.Service.GetDataTable(String connect, String sqlList, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 148
+  Exception data:
+    Severity: FATAL
+    SqlState: 3D000
+    MessageText: database "client_data" does not exist
+    File: postinit.c
+    Line: 887
+    Routine: InitPostgres
+Database client_schema Time 11/19/2023 10:23:02 AM finished 3  tables
+Database client_schema Time 11/19/2023 10:23:03 AM finished 0  Views
+Database client_schema Time 11/19/2023 10:23:04 AM finished 0  procedures
+Database client_schema Time 11/19/2023 10:23:04 AM finished 0  functions
+Database client_schema Time 11/19/2023 10:23:05 AM finished 0  triggers
+Database client_schema Time 11/19/2023 10:32:16 AM finished 127  tables
+Database client_schema Time 11/19/2023 10:32:17 AM finished 6  Views
+Database client_schema Time 11/19/2023 10:32:19 AM finished 4  procedures
+Database client_schema Time 11/19/2023 10:32:20 AM finished 4  functions
+Database client_schema Time 11/19/2023 10:32:20 AM finished 4  triggers
+Database client_schema Time 11/19/2023 2:38:41 PM finished 3  tables
+Database client_schema Time 11/19/2023 2:38:42 PM finished 0  Views
+Database client_schema Time 11/19/2023 2:38:43 PM finished 0  procedures
+Database client_schema Time 11/19/2023 2:38:43 PM finished 0  functions
+Database client_schema Time 11/19/2023 2:38:43 PM finished 0  triggers
+Database client_schemaffffffffff Time 11/19/2023 2:50:37 PM finished 127  tables
+Database client_schemaffffffffff Time 11/19/2023 2:50:38 PM finished 6  Views
+Database client_schemaffffffffff Time 11/19/2023 2:50:39 PM finished 4  procedures
+Database client_schemaffffffffff Time 11/19/2023 2:50:40 PM finished 4  functions
+Database client_schemaffffffffff Time 11/19/2023 2:50:40 PM finished 4  triggers
+Database client_schema Time 11/20/2023 1:53:26 PM finished 3  tables
+Database client_schema Time 11/20/2023 1:53:27 PM finished 0  Views
+Database client_schema Time 11/20/2023 1:53:28 PM finished 0  procedures
+Database client_schema Time 11/20/2023 1:53:28 PM finished 0  functions
+Database client_schema Time 11/20/2023 1:53:28 PM finished 0  triggers
+Database client_schema Time 11/20/2023 2:47:52 PM finished 3  tables
+Database client_schema Time 11/20/2023 2:47:56 PM finished 0  Views
+Database client_schema Time 11/20/2023 2:47:57 PM finished 0  procedures
+Database client_schema Time 11/20/2023 2:47:58 PM finished 0  functions
+Database client_schema Time 11/20/2023 2:47:58 PM finished 0  triggers
+Database client_schematestfinal Time 11/20/2023 3:00:18 PM finished 127  tables
+Database client_schematestfinal Time 11/20/2023 3:00:20 PM finished 6  Views
+Database client_schematestfinal Time 11/20/2023 3:00:21 PM finished 4  procedures
+Database client_schematestfinal Time 11/20/2023 3:00:22 PM finished 4  functions
+Database client_schematestfinal Time 11/20/2023 3:00:22 PM finished 4  triggers
+Database client_datatestfinal Time 11/20/2023 3:05:54 PM finished 127  tables
+Database client_datatestfinal Time 11/20/2023 3:05:55 PM finished 6  Views
+Database client_datatestfinal Time 11/20/2023 3:05:57 PM finished 4  procedures
+Database client_datatestfinal Time 11/20/2023 3:05:57 PM finished 4  functions
+Database client_datatestfinal Time 11/20/2023 3:05:58 PM finished 4  triggers
+Database client_schemafffffffffff Time 11/21/2023 10:28:45 AM finished 127  tables
+Database client_schemafffffffffff Time 11/21/2023 10:28:48 AM finished 6  Views
+Database client_schemafffffffffff Time 11/21/2023 10:28:49 AM finished 4  procedures
+Database client_schemafffffffffff Time 11/21/2023 10:28:49 AM finished 4  functions
+Database client_schemafffffffffff Time 11/21/2023 10:28:50 AM finished 4  triggers
+Database client_datafffffffffffffff Time 11/21/2023 10:37:15 AM finished 127  tables
+Database client_datafffffffffffffff Time 11/21/2023 10:37:16 AM finished 6  Views
+Database client_datafffffffffffffff Time 11/21/2023 10:37:17 AM finished 4  procedures
+Database client_datafffffffffffffff Time 11/21/2023 10:37:17 AM finished 4  functions
+Database client_datafffffffffffffff Time 11/21/2023 10:37:18 AM finished 4  triggers
+Database client_schemafffffffffff Time 11/21/2023 11:03:32 AM finished 127  tables
+Database client_schemafffffffffff Time 11/21/2023 11:03:32 AM finished 6  Views
+Database client_schemafffffffffff Time 11/21/2023 11:03:33 AM finished 4  procedures
+Database client_schemafffffffffff Time 11/21/2023 11:03:34 AM finished 4  functions
+Database client_schemafffffffffff Time 11/21/2023 11:03:34 AM finished 4  triggers
+Database client_dataffffffffffffffff Time 11/21/2023 11:14:25 AM finished 127  tables
+Database client_dataffffffffffffffff Time 11/21/2023 11:14:26 AM finished 6  Views
+Database client_dataffffffffffffffff Time 11/21/2023 11:14:27 AM finished 4  procedures
+Database client_dataffffffffffffffff Time 11/21/2023 11:14:28 AM finished 4  functions
+Database client_dataffffffffffffffff Time 11/21/2023 11:14:28 AM finished 4  triggers
+Database client_schema Time 11/21/2023 2:41:06 PM finished 8  tables
+Database client_schema Time 11/21/2023 2:41:07 PM finished 0  Views
+Database client_schema Time 11/21/2023 2:41:08 PM finished 0  procedures
+Database client_schema Time 11/21/2023 2:41:09 PM finished 0  functions
+Database client_schema Time 11/21/2023 2:41:09 PM finished 0  triggers
+Database client_schema Time 11/21/2023 4:09:04 PM finished 127  tables
+Database client_schema Time 11/21/2023 4:09:05 PM finished 6  Views
+Database client_schema Time 11/21/2023 4:09:06 PM finished 4  procedures
+Database client_schema Time 11/21/2023 4:09:07 PM finished 4  functions
+Database client_schema Time 11/21/2023 4:09:07 PM finished 4  triggers
+Database client_data Time 11/21/2023 4:16:28 PM finished 127  tables
+Database client_data Time 11/21/2023 4:16:30 PM finished 6  Views
+Database client_data Time 11/21/2023 4:16:31 PM finished 4  procedures
+Database client_data Time 11/21/2023 4:16:32 PM finished 4  functions
+Database client_data Time 11/21/2023 4:16:33 PM finished 4  triggers

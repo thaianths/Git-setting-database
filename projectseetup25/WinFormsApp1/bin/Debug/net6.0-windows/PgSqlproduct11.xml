@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModelProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModelProduct>
+    <tablename>CREATE OR REPLACE FUNCTION public.get_car_price(price_from integer, price_to integer)
+ RETURNS integer
+ LANGUAGE plpgsql
+AS $function$  
+Declare  
+ Car_count integer;  
+Begin  
+   select count(*)   
+   into Car_count  
+   from Car  
+   where Car_price between Price_from and Price_to;  
+   return Car_count;  
+End;  
+$function$
+</tablename>
+    <type>function</type>
+  </ModelProduct>
+  <ModelProduct>
+    <tablename>access_right</tablename>
+    <type>table</type>
+  </ModelProduct>
+  <ModelProduct>
+    <tablename>base_es_mapping</tablename>
+    <type>table</type>
+  </ModelProduct>
+  <ModelProduct>
+    <tablename>base_unit_tariff</tablename>
+    <type>table</type>
+  </ModelProduct>
+  <ModelProduct>
+    <tablename>child_menu</tablename>
+    <type>table</type>
+  </ModelProduct>
+</ArrayOfModelProduct>

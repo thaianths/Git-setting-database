@@ -1,0 +1,309 @@
+Error 11/16/2023 2:42:22 PM : Npgsql.PostgresException (0x80004005): 42P04: database "client_schema" already exists
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery()
+   at WinFormsApp1.Setting.CreateDatabase(String dbName) in C:\Users\SW24\source\repos\projectsepup17\WinFormsApp1\Setting.cs:line 647
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P04
+    MessageText: database "client_schema" already exists
+    File: dbcommands.c
+    Line: 523
+    Routine: createdb
+Error 11/16/2023 10:02:32 PM : Npgsql.NpgsqlException (0x80004005): Failed to connect to 192.168.1.22:5732
+ ---> System.TimeoutException: Timeout during connection attempt
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Setting.GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 567
+Error 11/16/2023 10:02:32 PM : System.ArgumentNullException: 'table' argument cannot be null. (Parameter 'table')
+   at System.Data.DataTableCollection.BaseAdd(DataTable table)
+   at System.Data.DataTableCollection.Add(DataTable table)
+   at WinFormsApp1.Setting.<create>b__107_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1349
+Error 11/16/2023 10:02:50 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__107_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1325
+Error 11/16/2023 10:03:04 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__107_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1325
+Error 11/16/2023 10:03:15 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__107_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1325
+Error 11/17/2023 6:11:25 AM : System.IO.FileNotFoundException: Could not find file 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSqlproduct1.xml'.
+File name: 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSqlproduct1.xml'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at WinFormsApp1.Setting.GetConfigServer[T](String path) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 130
+   at WinFormsApp1.Setting.comboBox1_SelectedValueChanged(Object sender, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1692
+Error 11/17/2023 6:11:29 AM : System.IO.FileNotFoundException: Could not find file 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSqlproduct1.xml'.
+File name: 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSqlproduct1.xml'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at WinFormsApp1.Setting.GetConfigServer[T](String path) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 130
+   at WinFormsApp1.Setting.comboBox1_SelectedValueChanged(Object sender, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1692
+Error 11/17/2023 6:14:50 AM : System.IO.FileNotFoundException: Could not find file 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSqlproduct1.xml'.
+File name: 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSqlproduct1.xml'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at WinFormsApp1.Setting.GetConfigServer[T](String path) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 130
+   at WinFormsApp1.Setting.comboBox1_SelectedValueChanged(Object sender, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1692
+Error 11/17/2023 6:16:24 AM : System.IO.FileNotFoundException: Could not find file 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSql4.xml'.
+File name: 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSql4.xml'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at WinFormsApp1.Setting.GetConfigServer[T](String path) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 130
+   at WinFormsApp1.Setting.comboBox1_SelectedValueChanged(Object sender, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1692
+Error 11/17/2023 6:17:02 AM : System.IO.FileNotFoundException: Could not find file 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSql1.xml'.
+File name: 'C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\bin\Debug\net6.0-windows\PgSql1.xml'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at WinFormsApp1.Setting.GetConfigServer[T](String path) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 130
+   at WinFormsApp1.Setting.comboBox1_SelectedValueChanged(Object sender, EventArgs e) in C:\Users\SW24\source\repos\projectsepup18\WinFormsApp1\Setting.cs:line 1692
+Error 11/17/2023 4:37:10 PM : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at WinFormsApp1.Setting..ctor() in C:\Users\SW24\source\repos\projectsepup20\WinFormsApp1\Setting.cs:line 77
+Error 11/17/2023 4:37:22 PM : System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at WinFormsApp1.Setting..ctor() in C:\Users\SW24\source\repos\projectsepup20\WinFormsApp1\Setting.cs:line 77
+Error 11/18/2023 2:01:44 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__100_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup20\WinFormsApp1\Setting.cs:line 1229
+Error 11/18/2023 2:01:48 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__100_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup20\WinFormsApp1\Setting.cs:line 1229
+Error 11/18/2023 2:01:51 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__100_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup20\WinFormsApp1\Setting.cs:line 1229
+Error 11/18/2023 2:01:58 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.<create>b__100_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup20\WinFormsApp1\Setting.cs:line 1229
+Error 11/18/2023 9:37:24 PM : Npgsql.PostgresException (0x80004005): 42601: syntax error at or near "client_schema"
+
+POSITION: 1
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteScalar(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteScalar()
+   at WinFormsApp1.Helper.CheckDatabaseExists(String sql, String connect) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 63
+   at WinFormsApp1.Service.CreateProcess(Process ps, Boolean backup, RadioButton btn, EventArgs e, String ip_cnn_customer, String Port_cnn_customer, String Id_cnn_customer, String Password_cnn_customer, String ip_cnn, String Port_cnn, String Id_cnn, String Password_cnn, DataGridView dr, ProgressBar pb, Int32 selectedTables, TextBox txtcustomer1, TextBox txtcustomer2, String connect, Int32 threadSleepBck, TextBox dbcnn, String _dir, Int32 threadSleepRst, Label lblset, ToolStripStatusLabel toolStripStatusLabel1, Button btnbacup, Button btnRestore, Button btntrack, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 321
+  Exception data:
+    Severity: ERROR
+    SqlState: 42601
+    MessageText: syntax error at or near "client_schema"
+    Position: 1
+    File: scan.l
+    Line: 1180
+    Routine: scanner_yyerror
+Error 11/18/2023 9:37:28 PM : Npgsql.PostgresException (0x80004005): 42601: syntax error at or near "client_schema"
+
+POSITION: 1
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteScalar(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteScalar()
+   at WinFormsApp1.Helper.CheckDatabaseExists(String sql, String connect) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 63
+   at WinFormsApp1.Service.CreateProcess(Process ps, Boolean backup, RadioButton btn, EventArgs e, String ip_cnn_customer, String Port_cnn_customer, String Id_cnn_customer, String Password_cnn_customer, String ip_cnn, String Port_cnn, String Id_cnn, String Password_cnn, DataGridView dr, ProgressBar pb, Int32 selectedTables, TextBox txtcustomer1, TextBox txtcustomer2, String connect, Int32 threadSleepBck, TextBox dbcnn, String _dir, Int32 threadSleepRst, Label lblset, ToolStripStatusLabel toolStripStatusLabel1, Button btnbacup, Button btnRestore, Button btntrack, String path) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 321
+  Exception data:
+    Severity: ERROR
+    SqlState: 42601
+    MessageText: syntax error at or near "client_schema"
+    Position: 1
+    File: scan.l
+    Line: 1180
+    Routine: scanner_yyerror
+Error 11/19/2023 8:54:17 AM : System.Net.NetworkInformation.PingException: An exception occurred during a Ping request.
+ ---> System.ComponentModel.Win32Exception (1232): The network location cannot be reached. For information about network troubleshooting, see Windows Help.
+   at System.Net.NetworkInformation.Ping.GetStatusFromCode(Int32 statusCode)
+   at System.Net.NetworkInformation.Ping.DoSendPingCore(IPAddress address, Byte[] buffer, Int32 timeout, PingOptions options, Boolean isAsync)
+   at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   --- End of inner exception stack trace ---
+   at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout)
+   at WinFormsApp1.dispose.CheckInternet(String ip, Int32 timeout) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\dispose.cs:line 21
+   at WinFormsApp1.Service.CheckInternet(String ip, Int32 timeout) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 442
+   at WinFormsApp1.Setting.<create>b__97_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Setting.cs:line 893
+Error 11/19/2023 8:54:31 AM : System.Net.NetworkInformation.PingException: An exception occurred during a Ping request.
+ ---> System.ComponentModel.Win32Exception (1232): The network location cannot be reached. For information about network troubleshooting, see Windows Help.
+   at System.Net.NetworkInformation.Ping.GetStatusFromCode(Int32 statusCode)
+   at System.Net.NetworkInformation.Ping.DoSendPingCore(IPAddress address, Byte[] buffer, Int32 timeout, PingOptions options, Boolean isAsync)
+   at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   --- End of inner exception stack trace ---
+   at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout)
+   at WinFormsApp1.dispose.CheckInternet(String ip, Int32 timeout) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\dispose.cs:line 21
+   at WinFormsApp1.Service.CheckInternet(String ip, Int32 timeout) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 442
+   at WinFormsApp1.Setting.<create>b__97_0(Object s, EventArgs e) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Setting.cs:line 893
+Error 11/19/2023 10:54:47 AM : System.ArgumentException: Host can't be null
+   at Npgsql.NpgsqlConnectionStringBuilder.PostProcessAndValidate()
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 30
+   at WinFormsApp1.Service.create(DataGridView dr, Helper _hp, String connect) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 38
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Setting.cs:line 880
+Error 11/19/2023 10:54:51 AM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Setting.cs:line 864
+Error 11/19/2023 10:54:54 AM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Setting.cs:line 864
+Error 11/19/2023 10:57:09 AM : System.ArgumentException: Host can't be null
+   at Npgsql.NpgsqlConnectionStringBuilder.PostProcessAndValidate()
+   at Npgsql.NpgsqlConnection.SetupDataSource()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Helper.cs:line 30
+   at WinFormsApp1.Service.create(DataGridView dr, Helper _hp, String connect) in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Service.cs:line 38
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup21\WinFormsApp1\Setting.cs:line 880
+Error 11/20/2023 6:03:07 PM : Npgsql.NpgsqlException (0x80004005): Failed to connect to 192.168.1.22:5732
+ ---> System.TimeoutException: Timeout during connection attempt
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup22\WinFormsApp1\Helper.cs:line 34
+   at WinFormsApp1.Service.create(DataGridView dr, Helper _hp, String connect) in C:\Users\SW24\source\repos\projectsepup22\WinFormsApp1\Service.cs:line 39
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup22\WinFormsApp1\Setting.cs:line 831
+Error 11/21/2023 5:14:54 AM : Npgsql.NpgsqlException (0x80004005): Failed to connect to 192.168.1.22:5732
+ ---> System.TimeoutException: Timeout during connection attempt
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Helper.cs:line 34
+   at WinFormsApp1.Service.create(DataGridView dr, Helper _hp, String connect) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Service.cs:line 39
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 831
+Error 11/21/2023 10:17:16 AM : System.NotImplementedException: The method or operation is not implemented.
+   at WinFormsApp1.ListTable`1.get_Count() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Helper.cs:line 238
+   at System.Collections.Generic.EnumerableHelpers.ToArray[T](IEnumerable`1 source, Int32& length)
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.OrderedEnumerable`1.ToList()
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WinFormsApp1.Service.create(DataGridView dr, Helper _hp, String connect) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Service.cs:line 43
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 831
+Error 11/21/2023 10:17:30 AM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 815
+Error 11/21/2023 10:17:34 AM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 815
+Error 11/21/2023 10:17:44 AM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 815
+Error 11/21/2023 10:17:52 AM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 815
+Error 11/21/2023 3:08:37 PM : Npgsql.PostgresException (0x80004005): 42P04: database "client_schema" already exists
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteNonQuery()
+   at WinFormsApp1.Helper.CreateDatabase(String sql, String connect) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Helper.cs:line 84
+   at WinFormsApp1.Setting.CreateDatabase(String dbName) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 470
+  Exception data:
+    Severity: ERROR
+    SqlState: 42P04
+    MessageText: database "client_schema" already exists
+    File: dbcommands.c
+    Line: 523
+    Routine: createdb
+Error 11/21/2023 9:30:34 PM : Npgsql.NpgsqlException (0x80004005): Failed to connect to 192.168.1.22:5732
+ ---> System.TimeoutException: Timeout during connection attempt
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|215_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|28_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|45_0(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.Open()
+   at WinFormsApp1.Helper._GetDataTable(String connect, String sqlList) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Helper.cs:line 35
+   at WinFormsApp1.Service.create(DataGridView dr, Helper _hp, String connect) in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Service.cs:line 39
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 855
+Error 11/21/2023 9:30:48 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 839
+Error 11/21/2023 9:31:00 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 839
+Error 11/21/2023 9:31:31 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 839
+Error 11/21/2023 9:32:06 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 839
+Error 11/21/2023 9:32:36 PM : System.InvalidOperationException: Provided column already belongs to the DataGridView control.
+   at System.Windows.Forms.DataGridView.OnAddingColumn(DataGridViewColumn dataGridViewColumn)
+   at System.Windows.Forms.DataGridViewColumnCollection.Add(DataGridViewColumn dataGridViewColumn)
+   at WinFormsApp1.Setting.create() in C:\Users\SW24\source\repos\projectsepup23\WinFormsApp1\Setting.cs:line 839
